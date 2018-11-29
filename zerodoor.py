@@ -15,7 +15,7 @@ _____________________________________________________________
 |                                                   |       | |
 |      *  ZeroDoor Backdoor Generator *             |_ __   | | 
 |                                                   (.(. )  | |
-|       ~ Created By Souhardya Sardar  ~    _      (_       )  
+|       ~ Created By Doctor Crow Copr  ~    _      (_       )  
 |            Happy Hacking to all :)        \\      /___/'  /   
 |                                           _\\_      \    |   |
 |                                          ((   )     /====|  |
@@ -25,8 +25,8 @@ _____________________________________________________________
 
 [---]                 ZeroDoor Backdoor Generator                           [---]
 [---]                                                                       [---]
-[---]                  Created by Souhardya Sardar                          [---]
-[---]                    github.com/Souhardya                               [---]
+[---]                   Created by Doctor_Crow                              [---]
+[---]                                                                       [---]
 
 
 
